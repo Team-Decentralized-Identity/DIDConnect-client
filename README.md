@@ -1,1 +1,1 @@
-# DIDConnect-client
+# DIDConnect-Client
